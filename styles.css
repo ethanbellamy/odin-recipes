@@ -1,0 +1,23 @@
+.ingredients {
+    color: white;
+    background-color: rgb(202, 202, 255);
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 20;
+    font-family: "Helvetica", sans-serif;
+}
+
+img.teriyaki {
+    height: 500px;
+    width: auto;
+}
+
+ol {
+    font-family: "Cambria", sans-serif;
+}
